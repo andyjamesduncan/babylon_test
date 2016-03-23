@@ -1,0 +1,7 @@
+Babylon Ruby Test by Andy Duncan, 23rd March, 2016
+
+1. Place the babylon_prom.rb and babylon_test.rb files in their own home project directory
+
+2. Make sure that RSpec is installed: gem install rspec
+
+3. Go into the home project directory, and run the following command: rspec babylon_test.rb
